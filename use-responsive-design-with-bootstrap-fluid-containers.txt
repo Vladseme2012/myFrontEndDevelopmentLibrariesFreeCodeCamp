@@ -24,9 +24,8 @@
     width: 100px;
   }
 </style>
-
-<div class="container-fluid">
-<h2 class="red-text">CatPhotoApp</h2>
+<div class='container-fluid'>
+ <h2 class="red-text">CatPhotoApp</h2>
 
 <p>Click here for <a href="#">cat photos</a>.</p>
 
@@ -52,6 +51,5 @@
   <label><input type="checkbox" name="personality"> Crazy</label>
   <input type="text" placeholder="cat photo URL" required>
   <button type="submit">Submit</button>
-</form>
+</form> 
 </div>
-
